@@ -1,4 +1,4 @@
-package two_sum;
+package exerc_001_two_sum;
 
 public class Solution {
 
